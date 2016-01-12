@@ -1,0 +1,12 @@
+c:\users\davin\documents\visual studio 2013\Projects\Zipper\Zipper\bin\Debug\Zipper.exe.config
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\bin\Debug\Zipper.exe
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\bin\Debug\Zipper.pdb
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\bin\Debug\MetroFramework.Design.dll
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\bin\Debug\MetroFramework.dll
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\obj\Debug\Zipper.csprojResolveAssemblyReference.cache
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\obj\Debug\Zipper.Main.resources
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\obj\Debug\Zipper.Properties.Resources.resources
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\obj\Debug\Zipper.csproj.GenerateResource.Cache
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\obj\Debug\Zipper.exe
+C:\Users\Davin\documents\visual studio 2013\Projects\Zipper\Zipper\obj\Debug\Zipper.pdb
